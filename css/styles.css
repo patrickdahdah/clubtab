@@ -14,7 +14,6 @@ body {
     text-align: center;
     background: #000000;
     color: white;
-    font-size: 30px;
     /* height: 1.5rem; */
     padding: 1rem;
     position: fixed;
@@ -29,7 +28,7 @@ body {
 }
 
 .flyer {
-  width: 350px;
+  width: 50rem;
   text-align: center;
 
 }
@@ -49,11 +48,12 @@ body {
 
 h1.title {
   padding-top:200px ;
+  font-size: 5rem ;
 }
 
 h2.title {
   padding-top:50px ;
-  font-size: 1.5rem;
+  font-size: 2.5rem;
   padding: 10px;
 }
 
