@@ -36,7 +36,7 @@ body {
 
 .top-container {
   /* background: #add8d0 ; */
-  background: url("/images/people.jpg") no-repeat center center fixed;
+  background: url("/images/people.jpg") no-repeat center center;
   background-size: cover;
   height: 60rem;
   overflow: hidden;
